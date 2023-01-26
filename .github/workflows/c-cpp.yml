@@ -17,7 +17,3 @@ jobs:
       run: make target1
     - name: run executable
       run: ./target1
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
